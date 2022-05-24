@@ -24,7 +24,7 @@ Note: All Funish projects may have unstable APIs until version number 1.0.0, use
 
 - [Lint](https://github.com/Funish/lint-module) - The Lint tool chain.
 - [Hooks](https://github.com/Funish/hooks-module) - Programmatically create hooks.
-- [Scaffolding](https://github.com/Funish/scaffolding-module)) - Programmatically build scaffolding.
+- [Scaffolding](https://github.com/Funish/scaffolding-module) - Programmatically build scaffolding.
 - [Database](https://github.com/Funish/database-module) - Locally-first, javascript-only database.
 
 ## Donate
