@@ -2,7 +2,7 @@
 
 > An open source project that aims to create a unified and standardised tool chain.
 
-Funish is an open source project built by [Demo Macro](https://github.com/DemoMacro) to create a unified and standardised tool chain to reduce redundant development solutions, automate processes, lower the development threshold and provide more funding for the development of the open source community through commercialisation.
+Funish is an open source project proposed by [Demo Macro](https://github.com/DemoMacro) to create a unified and standardised tool chain to reduce redundant development solutions, automate processes, lower the development threshold and provide more funding for the development of the open source community through commercialisation.
 
 This project focuses on providing some modular tools and possible public services. To see some of the applications, check out [DemoMacro's GitHub project page](https://github.com/DemoMacro).
 
