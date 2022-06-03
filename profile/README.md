@@ -18,12 +18,12 @@ Note: All Funish projects may have unstable APIs until version number 1.0.0, use
 
 ### Tools
 
-- [VSCode](https://github.com/microsoft/vscode)
+- [VS Code](https://github.com/microsoft/vscode)
 
 ## We want to build
 
 - [Lint](https://github.com/Funish/lint-module) - The Lint tool chain.
-- [Hooks](https://github.com/Funish/hooks-module) - Programmatically create hooks.
+- [Git hooks](https://github.com/Funish/githooks-module) - Programmatically create git hooks.
 - [Scaffolding](https://github.com/Funish/scaffolding-module) - Programmatically build scaffolding.
 - [Database](https://github.com/Funish/database-module) - Locally-first, javascript-only database.
 
