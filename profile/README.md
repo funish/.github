@@ -10,14 +10,10 @@ Note: All Funish projects may have unstable APIs until version number 1.0.0, use
 
 ### Tool chains
 
-- [Lint](https://github.com/Funish/lint-module) - The Lint tool chain.
-- [Git hooks](https://github.com/Funish/githooks-module) - Programmatically create git hooks.
-- [Scaffolding](https://github.com/Funish/scaffolding-module) - Programmatically create scaffolding.
-- [Database](https://github.com/Funish/database-module) - Locally-first, javascript-only database.
-
-### Applications
-
-- [IsPanel](https://github.com/Funish/IsPanel) - Linux control panel.
+- [Lint](https://github.com/funish/lint-module) - The Lint tool chain.
+- [Git hooks](https://github.com/funish/githooks-module) - Programmatically create git hooks.
+- [Scaffolding](https://github.com/funish/scaffolding-module) - Programmatically create scaffolding.
+- [Database](https://github.com/funish/database-module) - Locally-first, javascript-only database.
 
 ## Donate
 
