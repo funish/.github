@@ -8,6 +8,8 @@
 
 ## 🗺️ Roadmap
 
+<div align="center">
+
 | Project                                           | Status          | Description                   |
 | ------------------------------------------------- | --------------- | ----------------------------- |
 | **🔧 [Basis](https://github.com/funish/basis)**   | ✅ **Stable**   | Unified development toolkit   |
@@ -16,6 +18,8 @@
 | **🚀 Nexus**                                      | 🚧 **Planning** | Universal CDN & registry      |
 | **☁️ [Vertex](https://github.com/funish/vertex)** | 🔨 **Early**    | Cloud service platform        |
 | **🔍 Optima**                                     | 💭 **Concept**  | Desktop productivity tools    |
+
+</div>
 
 ## 🎯 Mission
 
