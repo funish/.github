@@ -12,8 +12,8 @@
 
 | Project                                           | Status          | Description                        |
 | ------------------------------------------------- | --------------- | ---------------------------------- |
-| **🔧 [Basis](https://github.com/funish/basis)**   | ✅ **Stable**   | Unified development toolkit        |
-| **🌐 Vector**                                     | 🚧 **Planning** | All-in-one AI workspace      |
+| **🔧 [Basis](https://github.com/funish/basis)**   | ✅ **Stable**   | Release pipeline & supply chain governance |
+| **🌐 Vector**                                     | 🚧 **Planning** | All-in-one AI workspace                    |
 | **🗺️ [Axis](https://github.com/funish/axis)**     | 🔨 **Early**    | Unified DNS management             |
 | **🚀 [Nexus](https://github.com/funish/nexus)**   | ✅ **Stable**   | Universal CDN & registry           |
 | **☁️ [Vertex](https://github.com/funish/vertex)** | 🔨 **Early**    | Cloud service platform             |
@@ -35,4 +35,6 @@ This project follows [Semantic Versioning](https://semver.org/). While the major
 **Built with ❤️ by Funish Team**
 
 </div>
+
+
 
